@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-**I am a French Indie Hacker 🇫🇷.**
+**I am a French Indie Hacker 🇫🇷**
 
 <!--
 **johackim/johackim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
