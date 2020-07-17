@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome ! 👋
 
 **I am a French Indie Hacker 🇫🇷**
 
