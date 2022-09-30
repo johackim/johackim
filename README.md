@@ -1,10 +1,14 @@
-## Welcome ! 👋
+## Hey 👋, I'm johackim
 
 **I am a French Indie Hacker 🇫🇷**
 
-⏤ Learn more about me, on [johackim.com](https://johackim.com)
+- 🔭 I’m currently working on [@ethibox](https://github.com/ethibox)
+- 🌱 I’m currently learning a lot of things in my Obsidian vault
+- ⚡ Fun fact: I created a popular french warez website at 16
+- 👨‍💻 Learn more about me, on [johackim.com](https://johackim.com)
+- 📫 How to reach me: [@_johackim](https://twitter.com/_johackim) or [mastodon.ethibox.fr/@johackim](https://mastodon.ethibox.fr/@johackim)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=johackim&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=johackim&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=64748b&title_color=64748b&icon_color=64748b&border_color=64748b)
 
 ## Support me
 
