@@ -1,6 +1,6 @@
 ## Hey 👋, I'm johackim
 
-**I am a French Indie Hacker 🇫🇷**
+**I am a French Indie Hacker 🇫🇷, I build free softwares (SaaS, JavaScript, Linux, Docker, Obsidian)**.
 
 - 🔭 I’m currently working on [@ethibox](https://github.com/ethibox)
 - 🌱 I’m currently learning a lot of things in my Obsidian vault
