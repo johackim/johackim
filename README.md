@@ -8,7 +8,7 @@
 - 👨‍💻 Learn more about me, on [johackim.com](https://johackim.com)
 - 📫 How to reach me: [@_johackim](https://twitter.com/_johackim) or [mastodon.ethibox.fr/@johackim](https://mastodon.ethibox.fr/@johackim)
 
-![](https://github-readme-stats.vercel.app/api?username=johackim&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=64748b&title_color=64748b&icon_color=64748b&border_color=64748b)
+![Stats](./profile/stats.svg)
 
 ## Support me
 
