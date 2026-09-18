@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">johackim&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1562, Total Commits  : 5269, Total PRs: 290, Total Issues: 69, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 1563, Total Commits  : 5269, Total PRs: 290, Total Issues: 69, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 29.739581074907253;
+        stroke-dashoffset: 29.737970098410152;
       }
     }
   
